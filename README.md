@@ -1,5 +1,6 @@
 # Manual-Testing-Project
 Project Title: Manual Testing of Security Incident Reporting and Outbound Call Enforcement
+
 Description: Conducted comprehensive manual testing to ensure accurate and efficient monitoring of security incidents and outbound call traffic. Focused on validating system functionality and configurations through detailed test cases.
 
 Role: Manual QA Tester
@@ -7,7 +8,9 @@ Role: Manual QA Tester
 Responsibilities:
 
 Developed detailed manual test cases covering various aspects of security incident reporting and outbound call enforcement.
+
 Executed test cases to validate the functionality of system features and configurations.
+
 Documented test results and reported discrepancies or issues to the development team.
 Collaborated with developers to troubleshoot and resolve issues identified during manual testing.
 Maintained and updated test cases as required to adapt to system changes and new requirements.
