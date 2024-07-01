@@ -31,3 +31,10 @@ Compare UI Outbound Calls with Expected Calls Data:
 Compared UI data with an Excel sheet containing expected results for Calling Number, Called Number, and Disposition to ensure accuracy.
 
 Technologies Used: Python, Robot Framework ,Excel, Sipp, Jira, Test Case Writing, Functional Testing
+
+
+Achievements:
+
+Created comprehensive manual test cases ensuring thorough validation of the system’s functionality.
+Identified and reported critical issues, contributing to the overall improvement of the system’s reliability and performance.
+Collaborated effectively with the development team to resolve issues promptly, ensuring smooth project progress.
